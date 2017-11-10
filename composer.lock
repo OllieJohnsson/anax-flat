@@ -215,22 +215,23 @@
         },
         {
             "name": "mos/anax-flat",
-            "version": "v1.1.4",
+            "version": "v1.1.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/canax/anax-flat.git",
-                "reference": "f1f0e74700cf70c743a77174e3710b19484fe12e"
+                "reference": "e27c2515aa816d93354b64898b337f69114ae3b0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/canax/anax-flat/zipball/f1f0e74700cf70c743a77174e3710b19484fe12e",
-                "reference": "f1f0e74700cf70c743a77174e3710b19484fe12e",
+                "url": "https://api.github.com/repos/canax/anax-flat/zipball/e27c2515aa816d93354b64898b337f69114ae3b0",
+                "reference": "e27c2515aa816d93354b64898b337f69114ae3b0",
                 "shasum": ""
             },
             "require": {
                 "mos/anax": "^2.5",
                 "mos/cimage": "^0.7",
                 "mos/ctextfilter": "^1.2",
+                "php": ">=5.6",
                 "symfony/yaml": "^3.1"
             },
             "suggest": {
@@ -261,20 +262,20 @@
                 "micro",
                 "mvc"
             ],
-            "time": "2017-10-30T14:45:20+00:00"
+            "time": "2017-11-07T09:16:15+00:00"
         },
         {
             "name": "mos/cimage",
-            "version": "v0.7.19",
+            "version": "v0.7.20",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mosbth/cimage.git",
-                "reference": "f9604518e478a5097f29f991b61ba8ee36e7e5ba"
+                "reference": "cd142c58806c8edb6164a12a20e120eb7f436dfb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mosbth/cimage/zipball/f9604518e478a5097f29f991b61ba8ee36e7e5ba",
-                "reference": "f9604518e478a5097f29f991b61ba8ee36e7e5ba",
+                "url": "https://api.github.com/repos/mosbth/cimage/zipball/cd142c58806c8edb6164a12a20e120eb7f436dfb",
+                "reference": "cd142c58806c8edb6164a12a20e120eb7f436dfb",
                 "shasum": ""
             },
             "require": {
@@ -321,7 +322,7 @@
                 "image",
                 "imageprocessing"
             ],
-            "time": "2017-03-30T22:47:55+00:00"
+            "time": "2017-11-06T09:24:47+00:00"
         },
         {
             "name": "mos/ctextfilter",

@@ -18,6 +18,6 @@ Test-sida
 
 Detta är min test-sida.
 
-<div style="width: 250px" markdown=1>
+<div class="testImage" markdown=1>
 ![Jag själv](img/me.jpg)
 </div>

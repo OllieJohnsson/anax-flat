@@ -1,5 +1,10 @@
-<div style="background-color: #eeeeee; overflow: auto; border-radius: 10px; color: rgba(0, 0, 0, 0.4); padding: 1em; max-width: 400px; margin: 50px 100px" markdown=1>
-<img src="img/me-small.jpg" style="float: left; width: 80px; height: 80px; margin-right: 16px; border-radius: 50%; margin-top: 30px">
+<!-- <div style="background-color: #eeeeee; overflow: auto; border-radius: 10px; color: rgba(0, 0, 0, 0.4); padding: 1em; max-width: 400px; margin: 50px 100px" markdown=1>
+<img src="img/me-small.jpg" style="float: left; width: 80px; height: 80px; margin-right: 16px; border-radius: 50%; margin-top: 30px"> -->
+
+<div class="byline" markdown=1>
+<img src="img/me-small.jpg">
+
+
 
 Oliver Johnsson läser webbprogrammering på BTH på distans.
 Oliver bor i Trelleborg.

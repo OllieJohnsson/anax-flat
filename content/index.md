@@ -14,7 +14,7 @@ Förutom att programmera tycker jag om att styrketräna och spela piano/gitarr.
 Jag har alltid varit intresserad av datorer och har bl.a. programmerat en del i Swift för iOS.
 Jag tycker också om att resa. Till nyår blir det London för andra året i rad!
 
-<div style="width: 400px" markdown=1>
+<div class="myImage" markdown=1>
 ![](img/me.jpg)
 </div>
 
