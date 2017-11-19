@@ -2,13 +2,13 @@
 views:
 
     sidebar2:
-        region: sidebar-right
+        region: sidebar-left
         template: default/content
         sort: 1
         data:
             meta:
                 type: content
-                route: block/byline
+                route: block/footer
 ...
 
 
