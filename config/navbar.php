@@ -44,6 +44,25 @@ return [
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Min typography-sida")
             ],
+
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Min theme-sida")
+            ],
+
+            "analysis" => [
+                "text"  => t("Analyser"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Mina analyser"),
+                "mark-if-parent" => true,
+            ],
+
+            "fun" => [
+                "text"  => t("Fun"),
+                "url"   => $this->di->get("url")->create("fun"),
+                "title" => t("Rolig sida"),
+            ],
         ],
     ],
 
@@ -90,6 +109,25 @@ return [
                 "text"  => t("Typography"),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Min typography-sida")
+            ],
+
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Min theme-sida")
+            ],
+
+            "analysis" => [
+                "text"  => t("Analyser"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Mina analyser"),
+                "mark-if-parent" => true,
+            ],
+
+            "fun" => [
+                "text"  => t("Fun"),
+                "url"   => $this->di->get("url")->create("fun"),
+                "title" => t("Rolig sida"),
             ],
         ],
     ],

@@ -8,7 +8,7 @@ views:
         data:
             meta:
                 type: content
-                route: block/footer
+                route: block/links
 ...
 
 

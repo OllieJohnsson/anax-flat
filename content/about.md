@@ -11,7 +11,6 @@ Här finns länkar till GitHub:
 ![GitHub](img/github.png "GitHub")
 </div>
 
-<div class="mainLink" markdown=1>
+
 [Anax-Flat](https://github.com/OllieJohnsson/anax-flat "Anax-Flat GitHub-repo")<br>
 [Theme](https://github.com/OllieJohnsson/anax-flat-theme "Theme GitHub-repo")
-</div>
