@@ -18,6 +18,4 @@ Test-sida
 
 Detta är min test-sida.
 
-<div class="testImage" markdown=1>
-![Jag själv](img/me.jpg)
-</div>
+[FIGURE src="image/me.png?w=c8&h=285&cf"]

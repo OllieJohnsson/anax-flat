@@ -4,10 +4,8 @@ Kmom04
 Jag valde tre webbplatser som jag ofta besöker och som jag tycker har intressanta färgval.
 För att analysera färgerna använde jag [Paletton](http://paletton.com) och [ColorHexa](http://colorhexa.com). Jag använde också Atom-tillägget [OS X Color Picker](https://atom.io/packages/native-color-picker) för att plocka ut färgerna.
 
-####PremierLeague
-<div class="analysisImage" markdown=1>
-[![premierleague](img/analysis/premierleague.png)](http://premierleague.com)
-</div>
+###PremierLeague
+[FIGURE src="image/analysis/premierleague.png?h=360" class="no-border"]
 
 <div class="colorBlock" style="background-color: #29002d">.</div>
 <div class="colorBlock" style="background-color: #e00041">.</div>
@@ -24,10 +22,8 @@ Jag tror att Premier League vill locka den yngre publiken med sin nya design. De
 
 
 
-####Ikea
-<div class="analysisImage" markdown=1>
-[![ikea](img/analysis/ikea.png)](http://ikea.se)
-</div>
+###Ikea
+[FIGURE src="image/analysis/ikea.png?h=360" class="no-border"]
 
 <div class="colorBlock" style="background-color: #043aab">.</div>
 <div class="colorBlock" style="background-color: #052d82">.</div>
@@ -44,10 +40,8 @@ Jag tror att Ikea vill framhäva att de är ett svenskt företag med sitt färgv
 
 
 
-####UltimateGuitar
-<div class="analysisImage" markdown=1>
-[![ultimateguitar](img/analysis/ultimateguitar.png)](http://ultimate-guitar.com)
-</div>
+###UltimateGuitar
+[FIGURE src="image/analysis/ultimateguitar.png?h=360" class="no-border"]
 
 <div class="colorBlock" style="background-color: #000000">.</div>
 <div class="colorBlock" style="background-color: #FFC600">.</div>

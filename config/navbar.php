@@ -63,6 +63,18 @@ return [
                 "url"   => $this->di->get("url")->create("fun"),
                 "title" => t("Rolig sida"),
             ],
+
+            "images" => [
+                "text"  => t("Images"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Bilder"),
+            ],
+
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blogg"),
+            ],
         ],
     ],
 
@@ -128,6 +140,18 @@ return [
                 "text"  => t("Fun"),
                 "url"   => $this->di->get("url")->create("fun"),
                 "title" => t("Rolig sida"),
+            ],
+
+            "images" => [
+                "text"  => t("Images"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Bilder"),
+            ],
+
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blogg"),
             ],
         ],
     ],

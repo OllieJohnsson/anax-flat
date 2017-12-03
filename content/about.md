@@ -7,9 +7,10 @@ Kursen syftar till en orientering inom områden design och användbarhet, specif
 
 Här finns länkar till GitHub:
 
-<div class="gitHubImage" markdown=1>
-![GitHub](img/github.png "GitHub")
-</div>
+
+[FIGURE src="image/github.png&h=48" class="no-border"]
+
+
 
 
 [Anax-Flat](https://github.com/OllieJohnsson/anax-flat "Anax-Flat GitHub-repo")<br>
