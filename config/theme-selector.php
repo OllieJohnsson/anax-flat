@@ -87,5 +87,56 @@ return [
                 "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
             ]
         ],
+
+        "separator3" => "------------------------------------------------",
+
+        "design element 1"       => [
+            "title"      => "Photo-background",
+            "class"      => "designelement1",
+            "stylesheets" => [
+                "css/style-designelement1.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "design element 2"       => [
+            "title"      => "Texture-background",
+            "class"      => "designelement2",
+            "stylesheets" => [
+                "css/style-designelement2.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "design element 3"       => [
+            "title"      => "Gradient-backgrounds",
+            "class"      => "designelement3",
+            "stylesheets" => [
+                "css/style-designelement3.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "separator4" => "------------------------------------------------",
+
+        "design principle 1"       => [
+            "title"      => "perspektiv, rörelse",
+            "class"      => "designprinciple1",
+            "stylesheets" => [
+                "css/style-designprinciple1.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "design principle 2"       => [
+            "title"      => "balans, harmoni",
+            "class"      => "designprinciple2",
+            "stylesheets" => [
+                "css/style-designprinciple2.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+
     ]
 ];
